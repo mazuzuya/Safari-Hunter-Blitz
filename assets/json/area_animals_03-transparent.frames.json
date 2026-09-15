@@ -1,0 +1,955 @@
+{
+  "image": "/generated-assets/area_animals_03-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 6,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "rusa_gazel_move_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 50,
+        "y": 56,
+        "w": 281,
+        "h": 331
+      },
+      "anchor": {
+        "x": 191,
+        "y": 386
+      }
+    },
+    {
+      "name": "rusa_gazel_move_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 416,
+        "y": 52,
+        "w": 278,
+        "h": 339
+      },
+      "anchor": {
+        "x": 555,
+        "y": 390
+      }
+    },
+    {
+      "name": "rusa_gazel_move_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 777,
+        "y": 40,
+        "w": 302,
+        "h": 330
+      },
+      "anchor": {
+        "x": 928,
+        "y": 369
+      }
+    },
+    {
+      "name": "rusa_gazel_move_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1145,
+        "y": 33,
+        "w": 322,
+        "h": 356
+      },
+      "anchor": {
+        "x": 1306,
+        "y": 388
+      }
+    },
+    {
+      "name": "burung_unta_move_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 69,
+        "y": 458,
+        "w": 318,
+        "h": 406
+      },
+      "anchor": {
+        "x": 228,
+        "y": 863
+      }
+    },
+    {
+      "name": "burung_unta_move_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 415,
+        "y": 468,
+        "w": 363,
+        "h": 406
+      },
+      "anchor": {
+        "x": 597,
+        "y": 873
+      }
+    },
+    {
+      "name": "burung_unta_move_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 833,
+        "y": 475,
+        "w": 342,
+        "h": 383
+      },
+      "anchor": {
+        "x": 1004,
+        "y": 857
+      }
+    },
+    {
+      "name": "burung_unta_move_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1209,
+        "y": 463,
+        "w": 322,
+        "h": 382
+      },
+      "anchor": {
+        "x": 1370,
+        "y": 844
+      }
+    },
+    {
+      "name": "meerkat_move_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 71,
+        "y": 1002,
+        "w": 293,
+        "h": 155
+      },
+      "anchor": {
+        "x": 218,
+        "y": 1156
+      }
+    },
+    {
+      "name": "meerkat_move_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 449,
+        "y": 1002,
+        "w": 290,
+        "h": 145
+      },
+      "anchor": {
+        "x": 594,
+        "y": 1146
+      }
+    },
+    {
+      "name": "meerkat_move_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 844,
+        "y": 1003,
+        "w": 282,
+        "h": 155
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1157
+      }
+    },
+    {
+      "name": "meerkat_move_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1215,
+        "y": 1003,
+        "w": 289,
+        "h": 154
+      },
+      "anchor": {
+        "x": 1360,
+        "y": 1156
+      }
+    },
+    {
+      "name": "babi_kutil_move_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 43,
+        "y": 1241,
+        "w": 357,
+        "h": 257
+      },
+      "anchor": {
+        "x": 222,
+        "y": 1497
+      }
+    },
+    {
+      "name": "babi_kutil_move_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 419,
+        "y": 1243,
+        "w": 366,
+        "h": 248
+      },
+      "anchor": {
+        "x": 602,
+        "y": 1490
+      }
+    },
+    {
+      "name": "babi_kutil_move_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 819,
+        "y": 1242,
+        "w": 351,
+        "h": 266
+      },
+      "anchor": {
+        "x": 995,
+        "y": 1507
+      }
+    },
+    {
+      "name": "babi_kutil_move_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1188,
+        "y": 1240,
+        "w": 363,
+        "h": 272
+      },
+      "anchor": {
+        "x": 1370,
+        "y": 1511
+      }
+    },
+    {
+      "name": "wildebeest_move_1",
+      "source": {
+        "x": 56,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 16,
+        "y": 1598,
+        "w": 374,
+        "h": 309
+      },
+      "anchor": {
+        "x": 203,
+        "y": 1906
+      }
+    },
+    {
+      "name": "wildebeest_move_2",
+      "source": {
+        "x": 440,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 414,
+        "y": 1603,
+        "w": 356,
+        "h": 304
+      },
+      "anchor": {
+        "x": 592,
+        "y": 1906
+      }
+    },
+    {
+      "name": "wildebeest_move_3",
+      "source": {
+        "x": 824,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 793,
+        "y": 1603,
+        "w": 353,
+        "h": 302
+      },
+      "anchor": {
+        "x": 970,
+        "y": 1904
+      }
+    },
+    {
+      "name": "wildebeest_move_4",
+      "source": {
+        "x": 1208,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1170,
+        "y": 1602,
+        "w": 363,
+        "h": 303
+      },
+      "anchor": {
+        "x": 1352,
+        "y": 1904
+      }
+    },
+    {
+      "name": "burung_sekretaris_move_1",
+      "source": {
+        "x": 56,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 17,
+        "y": 1981,
+        "w": 365,
+        "h": 313
+      },
+      "anchor": {
+        "x": 200,
+        "y": 2293
+      }
+    },
+    {
+      "name": "burung_sekretaris_move_2",
+      "source": {
+        "x": 440,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 397,
+        "y": 1983,
+        "w": 359,
+        "h": 306
+      },
+      "anchor": {
+        "x": 577,
+        "y": 2288
+      }
+    },
+    {
+      "name": "burung_sekretaris_move_3",
+      "source": {
+        "x": 824,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 775,
+        "y": 2037,
+        "w": 360,
+        "h": 238
+      },
+      "anchor": {
+        "x": 955,
+        "y": 2274
+      }
+    },
+    {
+      "name": "burung_sekretaris_move_4",
+      "source": {
+        "x": 1208,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1159,
+        "y": 2090,
+        "w": 368,
+        "h": 185
+      },
+      "anchor": {
+        "x": 1343,
+        "y": 2274
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "rusa_gazel_move",
+      "frames": [
+        {
+          "name": "rusa_gazel_move_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 50,
+            "y": 56,
+            "w": 281,
+            "h": 331
+          },
+          "anchor": {
+            "x": 191,
+            "y": 386
+          }
+        },
+        {
+          "name": "rusa_gazel_move_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 416,
+            "y": 52,
+            "w": 278,
+            "h": 339
+          },
+          "anchor": {
+            "x": 555,
+            "y": 390
+          }
+        },
+        {
+          "name": "rusa_gazel_move_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 777,
+            "y": 40,
+            "w": 302,
+            "h": 330
+          },
+          "anchor": {
+            "x": 928,
+            "y": 369
+          }
+        },
+        {
+          "name": "rusa_gazel_move_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1145,
+            "y": 33,
+            "w": 322,
+            "h": 356
+          },
+          "anchor": {
+            "x": 1306,
+            "y": 388
+          }
+        }
+      ]
+    },
+    {
+      "name": "burung_unta_move",
+      "frames": [
+        {
+          "name": "burung_unta_move_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 69,
+            "y": 458,
+            "w": 318,
+            "h": 406
+          },
+          "anchor": {
+            "x": 228,
+            "y": 863
+          }
+        },
+        {
+          "name": "burung_unta_move_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 415,
+            "y": 468,
+            "w": 363,
+            "h": 406
+          },
+          "anchor": {
+            "x": 597,
+            "y": 873
+          }
+        },
+        {
+          "name": "burung_unta_move_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 833,
+            "y": 475,
+            "w": 342,
+            "h": 383
+          },
+          "anchor": {
+            "x": 1004,
+            "y": 857
+          }
+        },
+        {
+          "name": "burung_unta_move_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1209,
+            "y": 463,
+            "w": 322,
+            "h": 382
+          },
+          "anchor": {
+            "x": 1370,
+            "y": 844
+          }
+        }
+      ]
+    },
+    {
+      "name": "meerkat_move",
+      "frames": [
+        {
+          "name": "meerkat_move_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 71,
+            "y": 1002,
+            "w": 293,
+            "h": 155
+          },
+          "anchor": {
+            "x": 218,
+            "y": 1156
+          }
+        },
+        {
+          "name": "meerkat_move_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 449,
+            "y": 1002,
+            "w": 290,
+            "h": 145
+          },
+          "anchor": {
+            "x": 594,
+            "y": 1146
+          }
+        },
+        {
+          "name": "meerkat_move_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 844,
+            "y": 1003,
+            "w": 282,
+            "h": 155
+          },
+          "anchor": {
+            "x": 985,
+            "y": 1157
+          }
+        },
+        {
+          "name": "meerkat_move_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1215,
+            "y": 1003,
+            "w": 289,
+            "h": 154
+          },
+          "anchor": {
+            "x": 1360,
+            "y": 1156
+          }
+        }
+      ]
+    },
+    {
+      "name": "babi_kutil_move",
+      "frames": [
+        {
+          "name": "babi_kutil_move_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 43,
+            "y": 1241,
+            "w": 357,
+            "h": 257
+          },
+          "anchor": {
+            "x": 222,
+            "y": 1497
+          }
+        },
+        {
+          "name": "babi_kutil_move_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 419,
+            "y": 1243,
+            "w": 366,
+            "h": 248
+          },
+          "anchor": {
+            "x": 602,
+            "y": 1490
+          }
+        },
+        {
+          "name": "babi_kutil_move_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 819,
+            "y": 1242,
+            "w": 351,
+            "h": 266
+          },
+          "anchor": {
+            "x": 995,
+            "y": 1507
+          }
+        },
+        {
+          "name": "babi_kutil_move_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1188,
+            "y": 1240,
+            "w": 363,
+            "h": 272
+          },
+          "anchor": {
+            "x": 1370,
+            "y": 1511
+          }
+        }
+      ]
+    },
+    {
+      "name": "wildebeest_move",
+      "frames": [
+        {
+          "name": "wildebeest_move_1",
+          "source": {
+            "x": 56,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 16,
+            "y": 1598,
+            "w": 374,
+            "h": 309
+          },
+          "anchor": {
+            "x": 203,
+            "y": 1906
+          }
+        },
+        {
+          "name": "wildebeest_move_2",
+          "source": {
+            "x": 440,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 414,
+            "y": 1603,
+            "w": 356,
+            "h": 304
+          },
+          "anchor": {
+            "x": 592,
+            "y": 1906
+          }
+        },
+        {
+          "name": "wildebeest_move_3",
+          "source": {
+            "x": 824,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 793,
+            "y": 1603,
+            "w": 353,
+            "h": 302
+          },
+          "anchor": {
+            "x": 970,
+            "y": 1904
+          }
+        },
+        {
+          "name": "wildebeest_move_4",
+          "source": {
+            "x": 1208,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1170,
+            "y": 1602,
+            "w": 363,
+            "h": 303
+          },
+          "anchor": {
+            "x": 1352,
+            "y": 1904
+          }
+        }
+      ]
+    },
+    {
+      "name": "burung_sekretaris_move",
+      "frames": [
+        {
+          "name": "burung_sekretaris_move_1",
+          "source": {
+            "x": 56,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 17,
+            "y": 1981,
+            "w": 365,
+            "h": 313
+          },
+          "anchor": {
+            "x": 200,
+            "y": 2293
+          }
+        },
+        {
+          "name": "burung_sekretaris_move_2",
+          "source": {
+            "x": 440,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 397,
+            "y": 1983,
+            "w": 359,
+            "h": 306
+          },
+          "anchor": {
+            "x": 577,
+            "y": 2288
+          }
+        },
+        {
+          "name": "burung_sekretaris_move_3",
+          "source": {
+            "x": 824,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 775,
+            "y": 2037,
+            "w": 360,
+            "h": 238
+          },
+          "anchor": {
+            "x": 955,
+            "y": 2274
+          }
+        },
+        {
+          "name": "burung_sekretaris_move_4",
+          "source": {
+            "x": 1208,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1159,
+            "y": 2090,
+            "w": 368,
+            "h": 185
+          },
+          "anchor": {
+            "x": 1343,
+            "y": 2274
+          }
+        }
+      ]
+    }
+  ]
+}

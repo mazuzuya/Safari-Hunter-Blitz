@@ -1,0 +1,955 @@
+{
+  "image": "/generated-assets/area_animals_07-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 6,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "salamander_api_move_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 203,
+        "w": 350,
+        "h": 119
+      },
+      "anchor": {
+        "x": 205,
+        "y": 321
+      }
+    },
+    {
+      "name": "salamander_api_move_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 412,
+        "y": 201,
+        "w": 342,
+        "h": 119
+      },
+      "anchor": {
+        "x": 583,
+        "y": 319
+      }
+    },
+    {
+      "name": "salamander_api_move_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 792,
+        "y": 202,
+        "w": 337,
+        "h": 116
+      },
+      "anchor": {
+        "x": 961,
+        "y": 317
+      }
+    },
+    {
+      "name": "salamander_api_move_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1169,
+        "y": 190,
+        "w": 350,
+        "h": 128
+      },
+      "anchor": {
+        "x": 1344,
+        "y": 317
+      }
+    },
+    {
+      "name": "kambing_gunung_move_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 50,
+        "y": 474,
+        "w": 302,
+        "h": 324
+      },
+      "anchor": {
+        "x": 201,
+        "y": 797
+      }
+    },
+    {
+      "name": "kambing_gunung_move_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 449,
+        "y": 471,
+        "w": 289,
+        "h": 328
+      },
+      "anchor": {
+        "x": 594,
+        "y": 798
+      }
+    },
+    {
+      "name": "kambing_gunung_move_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 817,
+        "y": 473,
+        "w": 294,
+        "h": 326
+      },
+      "anchor": {
+        "x": 964,
+        "y": 798
+      }
+    },
+    {
+      "name": "kambing_gunung_move_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1214,
+        "y": 461,
+        "w": 289,
+        "h": 338
+      },
+      "anchor": {
+        "x": 1359,
+        "y": 798
+      }
+    },
+    {
+      "name": "kondor_move_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 898,
+        "w": 334,
+        "h": 295
+      },
+      "anchor": {
+        "x": 197,
+        "y": 1192
+      }
+    },
+    {
+      "name": "kondor_move_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 413,
+        "y": 964,
+        "w": 347,
+        "h": 230
+      },
+      "anchor": {
+        "x": 587,
+        "y": 1193
+      }
+    },
+    {
+      "name": "kondor_move_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 821,
+        "y": 918,
+        "w": 327,
+        "h": 276
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1193
+      }
+    },
+    {
+      "name": "kondor_move_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1188,
+        "y": 937,
+        "w": 332,
+        "h": 258
+      },
+      "anchor": {
+        "x": 1354,
+        "y": 1194
+      }
+    },
+    {
+      "name": "panther_hitam_move_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 1338,
+        "w": 359,
+        "h": 199
+      },
+      "anchor": {
+        "x": 210,
+        "y": 1536
+      }
+    },
+    {
+      "name": "panther_hitam_move_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 456,
+        "y": 1341,
+        "w": 312,
+        "h": 196
+      },
+      "anchor": {
+        "x": 612,
+        "y": 1536
+      }
+    },
+    {
+      "name": "panther_hitam_move_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 825,
+        "y": 1349,
+        "w": 324,
+        "h": 184
+      },
+      "anchor": {
+        "x": 987,
+        "y": 1532
+      }
+    },
+    {
+      "name": "panther_hitam_move_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1169,
+        "y": 1339,
+        "w": 362,
+        "h": 194
+      },
+      "anchor": {
+        "x": 1350,
+        "y": 1532
+      }
+    },
+    {
+      "name": "kepiting_lava_move_1",
+      "source": {
+        "x": 56,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 79,
+        "y": 1699,
+        "w": 304,
+        "h": 154
+      },
+      "anchor": {
+        "x": 231,
+        "y": 1852
+      }
+    },
+    {
+      "name": "kepiting_lava_move_2",
+      "source": {
+        "x": 440,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 464,
+        "y": 1698,
+        "w": 303,
+        "h": 156
+      },
+      "anchor": {
+        "x": 616,
+        "y": 1853
+      }
+    },
+    {
+      "name": "kepiting_lava_move_3",
+      "source": {
+        "x": 824,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 845,
+        "y": 1699,
+        "w": 298,
+        "h": 155
+      },
+      "anchor": {
+        "x": 994,
+        "y": 1853
+      }
+    },
+    {
+      "name": "kepiting_lava_move_4",
+      "source": {
+        "x": 1208,
+        "y": 1592,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1223,
+        "y": 1699,
+        "w": 306,
+        "h": 154
+      },
+      "anchor": {
+        "x": 1376,
+        "y": 1852
+      }
+    },
+    {
+      "name": "tokek_terbang_move_1",
+      "source": {
+        "x": 56,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 34,
+        "y": 2017,
+        "w": 319,
+        "h": 169
+      },
+      "anchor": {
+        "x": 194,
+        "y": 2185
+      }
+    },
+    {
+      "name": "tokek_terbang_move_2",
+      "source": {
+        "x": 440,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 412,
+        "y": 2005,
+        "w": 321,
+        "h": 198
+      },
+      "anchor": {
+        "x": 573,
+        "y": 2202
+      }
+    },
+    {
+      "name": "tokek_terbang_move_3",
+      "source": {
+        "x": 824,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 793,
+        "y": 1979,
+        "w": 301,
+        "h": 248
+      },
+      "anchor": {
+        "x": 944,
+        "y": 2226
+      }
+    },
+    {
+      "name": "tokek_terbang_move_4",
+      "source": {
+        "x": 1208,
+        "y": 1976,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1181,
+        "y": 2024,
+        "w": 314,
+        "h": 205
+      },
+      "anchor": {
+        "x": 1338,
+        "y": 2228
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "salamander_api_move",
+      "frames": [
+        {
+          "name": "salamander_api_move_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 30,
+            "y": 203,
+            "w": 350,
+            "h": 119
+          },
+          "anchor": {
+            "x": 205,
+            "y": 321
+          }
+        },
+        {
+          "name": "salamander_api_move_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 412,
+            "y": 201,
+            "w": 342,
+            "h": 119
+          },
+          "anchor": {
+            "x": 583,
+            "y": 319
+          }
+        },
+        {
+          "name": "salamander_api_move_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 792,
+            "y": 202,
+            "w": 337,
+            "h": 116
+          },
+          "anchor": {
+            "x": 961,
+            "y": 317
+          }
+        },
+        {
+          "name": "salamander_api_move_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1169,
+            "y": 190,
+            "w": 350,
+            "h": 128
+          },
+          "anchor": {
+            "x": 1344,
+            "y": 317
+          }
+        }
+      ]
+    },
+    {
+      "name": "kambing_gunung_move",
+      "frames": [
+        {
+          "name": "kambing_gunung_move_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 50,
+            "y": 474,
+            "w": 302,
+            "h": 324
+          },
+          "anchor": {
+            "x": 201,
+            "y": 797
+          }
+        },
+        {
+          "name": "kambing_gunung_move_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 449,
+            "y": 471,
+            "w": 289,
+            "h": 328
+          },
+          "anchor": {
+            "x": 594,
+            "y": 798
+          }
+        },
+        {
+          "name": "kambing_gunung_move_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 817,
+            "y": 473,
+            "w": 294,
+            "h": 326
+          },
+          "anchor": {
+            "x": 964,
+            "y": 798
+          }
+        },
+        {
+          "name": "kambing_gunung_move_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1214,
+            "y": 461,
+            "w": 289,
+            "h": 338
+          },
+          "anchor": {
+            "x": 1359,
+            "y": 798
+          }
+        }
+      ]
+    },
+    {
+      "name": "kondor_move",
+      "frames": [
+        {
+          "name": "kondor_move_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 30,
+            "y": 898,
+            "w": 334,
+            "h": 295
+          },
+          "anchor": {
+            "x": 197,
+            "y": 1192
+          }
+        },
+        {
+          "name": "kondor_move_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 413,
+            "y": 964,
+            "w": 347,
+            "h": 230
+          },
+          "anchor": {
+            "x": 587,
+            "y": 1193
+          }
+        },
+        {
+          "name": "kondor_move_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 821,
+            "y": 918,
+            "w": 327,
+            "h": 276
+          },
+          "anchor": {
+            "x": 985,
+            "y": 1193
+          }
+        },
+        {
+          "name": "kondor_move_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1188,
+            "y": 937,
+            "w": 332,
+            "h": 258
+          },
+          "anchor": {
+            "x": 1354,
+            "y": 1194
+          }
+        }
+      ]
+    },
+    {
+      "name": "panther_hitam_move",
+      "frames": [
+        {
+          "name": "panther_hitam_move_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 30,
+            "y": 1338,
+            "w": 359,
+            "h": 199
+          },
+          "anchor": {
+            "x": 210,
+            "y": 1536
+          }
+        },
+        {
+          "name": "panther_hitam_move_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 456,
+            "y": 1341,
+            "w": 312,
+            "h": 196
+          },
+          "anchor": {
+            "x": 612,
+            "y": 1536
+          }
+        },
+        {
+          "name": "panther_hitam_move_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 825,
+            "y": 1349,
+            "w": 324,
+            "h": 184
+          },
+          "anchor": {
+            "x": 987,
+            "y": 1532
+          }
+        },
+        {
+          "name": "panther_hitam_move_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1169,
+            "y": 1339,
+            "w": 362,
+            "h": 194
+          },
+          "anchor": {
+            "x": 1350,
+            "y": 1532
+          }
+        }
+      ]
+    },
+    {
+      "name": "kepiting_lava_move",
+      "frames": [
+        {
+          "name": "kepiting_lava_move_1",
+          "source": {
+            "x": 56,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 79,
+            "y": 1699,
+            "w": 304,
+            "h": 154
+          },
+          "anchor": {
+            "x": 231,
+            "y": 1852
+          }
+        },
+        {
+          "name": "kepiting_lava_move_2",
+          "source": {
+            "x": 440,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 464,
+            "y": 1698,
+            "w": 303,
+            "h": 156
+          },
+          "anchor": {
+            "x": 616,
+            "y": 1853
+          }
+        },
+        {
+          "name": "kepiting_lava_move_3",
+          "source": {
+            "x": 824,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 845,
+            "y": 1699,
+            "w": 298,
+            "h": 155
+          },
+          "anchor": {
+            "x": 994,
+            "y": 1853
+          }
+        },
+        {
+          "name": "kepiting_lava_move_4",
+          "source": {
+            "x": 1208,
+            "y": 1592,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1223,
+            "y": 1699,
+            "w": 306,
+            "h": 154
+          },
+          "anchor": {
+            "x": 1376,
+            "y": 1852
+          }
+        }
+      ]
+    },
+    {
+      "name": "tokek_terbang_move",
+      "frames": [
+        {
+          "name": "tokek_terbang_move_1",
+          "source": {
+            "x": 56,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 34,
+            "y": 2017,
+            "w": 319,
+            "h": 169
+          },
+          "anchor": {
+            "x": 194,
+            "y": 2185
+          }
+        },
+        {
+          "name": "tokek_terbang_move_2",
+          "source": {
+            "x": 440,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 412,
+            "y": 2005,
+            "w": 321,
+            "h": 198
+          },
+          "anchor": {
+            "x": 573,
+            "y": 2202
+          }
+        },
+        {
+          "name": "tokek_terbang_move_3",
+          "source": {
+            "x": 824,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 793,
+            "y": 1979,
+            "w": 301,
+            "h": 248
+          },
+          "anchor": {
+            "x": 944,
+            "y": 2226
+          }
+        },
+        {
+          "name": "tokek_terbang_move_4",
+          "source": {
+            "x": 1208,
+            "y": 1976,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1181,
+            "y": 2024,
+            "w": 314,
+            "h": 205
+          },
+          "anchor": {
+            "x": 1338,
+            "y": 2228
+          }
+        }
+      ]
+    }
+  ]
+}

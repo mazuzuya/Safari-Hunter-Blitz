@@ -1,0 +1,641 @@
+{
+  "image": "/generated-assets/wave_rare_effects-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "rare_prism_burst_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 13,
+        "y": 42,
+        "w": 388,
+        "h": 385
+      },
+      "anchor": {
+        "x": 207,
+        "y": 426
+      }
+    },
+    {
+      "name": "rare_prism_burst_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 417,
+        "y": 61,
+        "w": 374,
+        "h": 360
+      },
+      "anchor": {
+        "x": 604,
+        "y": 420
+      }
+    },
+    {
+      "name": "rare_prism_burst_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 813,
+        "y": 63,
+        "w": 353,
+        "h": 354
+      },
+      "anchor": {
+        "x": 990,
+        "y": 416
+      }
+    },
+    {
+      "name": "rare_prism_burst_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1205,
+        "y": 57,
+        "w": 344,
+        "h": 356
+      },
+      "anchor": {
+        "x": 1377,
+        "y": 412
+      }
+    },
+    {
+      "name": "rare_paw_portal_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 23,
+        "y": 465,
+        "w": 360,
+        "h": 340
+      },
+      "anchor": {
+        "x": 203,
+        "y": 804
+      }
+    },
+    {
+      "name": "rare_paw_portal_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 420,
+        "y": 463,
+        "w": 358,
+        "h": 348
+      },
+      "anchor": {
+        "x": 599,
+        "y": 810
+      }
+    },
+    {
+      "name": "rare_paw_portal_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 816,
+        "y": 475,
+        "w": 352,
+        "h": 337
+      },
+      "anchor": {
+        "x": 992,
+        "y": 811
+      }
+    },
+    {
+      "name": "rare_paw_portal_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1216,
+        "y": 481,
+        "w": 322,
+        "h": 313
+      },
+      "anchor": {
+        "x": 1377,
+        "y": 793
+      }
+    },
+    {
+      "name": "wave_four_arrival_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 25,
+        "y": 853,
+        "w": 367,
+        "h": 328
+      },
+      "anchor": {
+        "x": 209,
+        "y": 1180
+      }
+    },
+    {
+      "name": "wave_four_arrival_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 423,
+        "y": 860,
+        "w": 364,
+        "h": 323
+      },
+      "anchor": {
+        "x": 605,
+        "y": 1182
+      }
+    },
+    {
+      "name": "wave_four_arrival_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 812,
+        "y": 866,
+        "w": 365,
+        "h": 312
+      },
+      "anchor": {
+        "x": 995,
+        "y": 1177
+      }
+    },
+    {
+      "name": "wave_four_arrival_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1223,
+        "y": 904,
+        "w": 330,
+        "h": 246
+      },
+      "anchor": {
+        "x": 1388,
+        "y": 1149
+      }
+    },
+    {
+      "name": "wave_five_arrival_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 18,
+        "y": 1225,
+        "w": 371,
+        "h": 341
+      },
+      "anchor": {
+        "x": 204,
+        "y": 1565
+      }
+    },
+    {
+      "name": "wave_five_arrival_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 421,
+        "y": 1227,
+        "w": 353,
+        "h": 338
+      },
+      "anchor": {
+        "x": 598,
+        "y": 1564
+      }
+    },
+    {
+      "name": "wave_five_arrival_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 820,
+        "y": 1236,
+        "w": 343,
+        "h": 324
+      },
+      "anchor": {
+        "x": 992,
+        "y": 1559
+      }
+    },
+    {
+      "name": "wave_five_arrival_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1216,
+        "y": 1232,
+        "w": 339,
+        "h": 331
+      },
+      "anchor": {
+        "x": 1386,
+        "y": 1562
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "rare_prism_burst",
+      "frames": [
+        {
+          "name": "rare_prism_burst_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 13,
+            "y": 42,
+            "w": 388,
+            "h": 385
+          },
+          "anchor": {
+            "x": 207,
+            "y": 426
+          }
+        },
+        {
+          "name": "rare_prism_burst_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 417,
+            "y": 61,
+            "w": 374,
+            "h": 360
+          },
+          "anchor": {
+            "x": 604,
+            "y": 420
+          }
+        },
+        {
+          "name": "rare_prism_burst_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 813,
+            "y": 63,
+            "w": 353,
+            "h": 354
+          },
+          "anchor": {
+            "x": 990,
+            "y": 416
+          }
+        },
+        {
+          "name": "rare_prism_burst_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1205,
+            "y": 57,
+            "w": 344,
+            "h": 356
+          },
+          "anchor": {
+            "x": 1377,
+            "y": 412
+          }
+        }
+      ]
+    },
+    {
+      "name": "rare_paw_portal",
+      "frames": [
+        {
+          "name": "rare_paw_portal_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 23,
+            "y": 465,
+            "w": 360,
+            "h": 340
+          },
+          "anchor": {
+            "x": 203,
+            "y": 804
+          }
+        },
+        {
+          "name": "rare_paw_portal_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 420,
+            "y": 463,
+            "w": 358,
+            "h": 348
+          },
+          "anchor": {
+            "x": 599,
+            "y": 810
+          }
+        },
+        {
+          "name": "rare_paw_portal_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 816,
+            "y": 475,
+            "w": 352,
+            "h": 337
+          },
+          "anchor": {
+            "x": 992,
+            "y": 811
+          }
+        },
+        {
+          "name": "rare_paw_portal_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1216,
+            "y": 481,
+            "w": 322,
+            "h": 313
+          },
+          "anchor": {
+            "x": 1377,
+            "y": 793
+          }
+        }
+      ]
+    },
+    {
+      "name": "wave_four_arrival",
+      "frames": [
+        {
+          "name": "wave_four_arrival_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 25,
+            "y": 853,
+            "w": 367,
+            "h": 328
+          },
+          "anchor": {
+            "x": 209,
+            "y": 1180
+          }
+        },
+        {
+          "name": "wave_four_arrival_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 423,
+            "y": 860,
+            "w": 364,
+            "h": 323
+          },
+          "anchor": {
+            "x": 605,
+            "y": 1182
+          }
+        },
+        {
+          "name": "wave_four_arrival_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 812,
+            "y": 866,
+            "w": 365,
+            "h": 312
+          },
+          "anchor": {
+            "x": 995,
+            "y": 1177
+          }
+        },
+        {
+          "name": "wave_four_arrival_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1223,
+            "y": 904,
+            "w": 330,
+            "h": 246
+          },
+          "anchor": {
+            "x": 1388,
+            "y": 1149
+          }
+        }
+      ]
+    },
+    {
+      "name": "wave_five_arrival",
+      "frames": [
+        {
+          "name": "wave_five_arrival_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 18,
+            "y": 1225,
+            "w": 371,
+            "h": 341
+          },
+          "anchor": {
+            "x": 204,
+            "y": 1565
+          }
+        },
+        {
+          "name": "wave_five_arrival_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 421,
+            "y": 1227,
+            "w": 353,
+            "h": 338
+          },
+          "anchor": {
+            "x": 598,
+            "y": 1564
+          }
+        },
+        {
+          "name": "wave_five_arrival_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 820,
+            "y": 1236,
+            "w": 343,
+            "h": 324
+          },
+          "anchor": {
+            "x": 992,
+            "y": 1559
+          }
+        },
+        {
+          "name": "wave_five_arrival_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1216,
+            "y": 1232,
+            "w": 339,
+            "h": 331
+          },
+          "anchor": {
+            "x": 1386,
+            "y": 1562
+          }
+        }
+      ]
+    }
+  ]
+}

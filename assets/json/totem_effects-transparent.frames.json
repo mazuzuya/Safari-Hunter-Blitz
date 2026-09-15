@@ -1,0 +1,641 @@
+{
+  "image": "/generated-assets/totem_effects-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "totem_activate_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 76,
+        "y": 114,
+        "w": 262,
+        "h": 248
+      },
+      "anchor": {
+        "x": 207,
+        "y": 361
+      }
+    },
+    {
+      "name": "totem_activate_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 435,
+        "y": 75,
+        "w": 302,
+        "h": 303
+      },
+      "anchor": {
+        "x": 586,
+        "y": 377
+      }
+    },
+    {
+      "name": "totem_activate_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 805,
+        "y": 58,
+        "w": 341,
+        "h": 349
+      },
+      "anchor": {
+        "x": 976,
+        "y": 406
+      }
+    },
+    {
+      "name": "totem_activate_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1180,
+        "y": 39,
+        "w": 385,
+        "h": 381
+      },
+      "anchor": {
+        "x": 1373,
+        "y": 419
+      }
+    },
+    {
+      "name": "formation_spawn_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 76,
+        "y": 507,
+        "w": 277,
+        "h": 200
+      },
+      "anchor": {
+        "x": 215,
+        "y": 706
+      }
+    },
+    {
+      "name": "formation_spawn_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 490,
+        "w": 309,
+        "h": 243
+      },
+      "anchor": {
+        "x": 586,
+        "y": 732
+      }
+    },
+    {
+      "name": "formation_spawn_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 810,
+        "y": 470,
+        "w": 336,
+        "h": 289
+      },
+      "anchor": {
+        "x": 978,
+        "y": 758
+      }
+    },
+    {
+      "name": "formation_spawn_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1175,
+        "y": 459,
+        "w": 385,
+        "h": 318
+      },
+      "anchor": {
+        "x": 1368,
+        "y": 776
+      }
+    },
+    {
+      "name": "mutator_warning_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 63,
+        "y": 838,
+        "w": 299,
+        "h": 296
+      },
+      "anchor": {
+        "x": 213,
+        "y": 1133
+      }
+    },
+    {
+      "name": "mutator_warning_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 430,
+        "y": 833,
+        "w": 309,
+        "h": 307
+      },
+      "anchor": {
+        "x": 585,
+        "y": 1139
+      }
+    },
+    {
+      "name": "mutator_warning_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 793,
+        "y": 809,
+        "w": 365,
+        "h": 356
+      },
+      "anchor": {
+        "x": 976,
+        "y": 1164
+      }
+    },
+    {
+      "name": "mutator_warning_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1204,
+        "y": 826,
+        "w": 323,
+        "h": 321
+      },
+      "anchor": {
+        "x": 1366,
+        "y": 1146
+      }
+    },
+    {
+      "name": "mutator_finish_1",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 43,
+        "y": 1220,
+        "w": 331,
+        "h": 310
+      },
+      "anchor": {
+        "x": 209,
+        "y": 1529
+      }
+    },
+    {
+      "name": "mutator_finish_2",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 417,
+        "y": 1219,
+        "w": 329,
+        "h": 313
+      },
+      "anchor": {
+        "x": 582,
+        "y": 1531
+      }
+    },
+    {
+      "name": "mutator_finish_3",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 818,
+        "y": 1233,
+        "w": 303,
+        "h": 280
+      },
+      "anchor": {
+        "x": 970,
+        "y": 1512
+      }
+    },
+    {
+      "name": "mutator_finish_4",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1198,
+        "y": 1223,
+        "w": 333,
+        "h": 319
+      },
+      "anchor": {
+        "x": 1365,
+        "y": 1541
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "totem_activate",
+      "frames": [
+        {
+          "name": "totem_activate_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 76,
+            "y": 114,
+            "w": 262,
+            "h": 248
+          },
+          "anchor": {
+            "x": 207,
+            "y": 361
+          }
+        },
+        {
+          "name": "totem_activate_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 435,
+            "y": 75,
+            "w": 302,
+            "h": 303
+          },
+          "anchor": {
+            "x": 586,
+            "y": 377
+          }
+        },
+        {
+          "name": "totem_activate_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 805,
+            "y": 58,
+            "w": 341,
+            "h": 349
+          },
+          "anchor": {
+            "x": 976,
+            "y": 406
+          }
+        },
+        {
+          "name": "totem_activate_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1180,
+            "y": 39,
+            "w": 385,
+            "h": 381
+          },
+          "anchor": {
+            "x": 1373,
+            "y": 419
+          }
+        }
+      ]
+    },
+    {
+      "name": "formation_spawn",
+      "frames": [
+        {
+          "name": "formation_spawn_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 76,
+            "y": 507,
+            "w": 277,
+            "h": 200
+          },
+          "anchor": {
+            "x": 215,
+            "y": 706
+          }
+        },
+        {
+          "name": "formation_spawn_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 431,
+            "y": 490,
+            "w": 309,
+            "h": 243
+          },
+          "anchor": {
+            "x": 586,
+            "y": 732
+          }
+        },
+        {
+          "name": "formation_spawn_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 810,
+            "y": 470,
+            "w": 336,
+            "h": 289
+          },
+          "anchor": {
+            "x": 978,
+            "y": 758
+          }
+        },
+        {
+          "name": "formation_spawn_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1175,
+            "y": 459,
+            "w": 385,
+            "h": 318
+          },
+          "anchor": {
+            "x": 1368,
+            "y": 776
+          }
+        }
+      ]
+    },
+    {
+      "name": "mutator_warning",
+      "frames": [
+        {
+          "name": "mutator_warning_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 63,
+            "y": 838,
+            "w": 299,
+            "h": 296
+          },
+          "anchor": {
+            "x": 213,
+            "y": 1133
+          }
+        },
+        {
+          "name": "mutator_warning_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 430,
+            "y": 833,
+            "w": 309,
+            "h": 307
+          },
+          "anchor": {
+            "x": 585,
+            "y": 1139
+          }
+        },
+        {
+          "name": "mutator_warning_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 793,
+            "y": 809,
+            "w": 365,
+            "h": 356
+          },
+          "anchor": {
+            "x": 976,
+            "y": 1164
+          }
+        },
+        {
+          "name": "mutator_warning_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1204,
+            "y": 826,
+            "w": 323,
+            "h": 321
+          },
+          "anchor": {
+            "x": 1366,
+            "y": 1146
+          }
+        }
+      ]
+    },
+    {
+      "name": "mutator_finish",
+      "frames": [
+        {
+          "name": "mutator_finish_1",
+          "source": {
+            "x": 56,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 43,
+            "y": 1220,
+            "w": 331,
+            "h": 310
+          },
+          "anchor": {
+            "x": 209,
+            "y": 1529
+          }
+        },
+        {
+          "name": "mutator_finish_2",
+          "source": {
+            "x": 440,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 417,
+            "y": 1219,
+            "w": 329,
+            "h": 313
+          },
+          "anchor": {
+            "x": 582,
+            "y": 1531
+          }
+        },
+        {
+          "name": "mutator_finish_3",
+          "source": {
+            "x": 824,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 818,
+            "y": 1233,
+            "w": 303,
+            "h": 280
+          },
+          "anchor": {
+            "x": 970,
+            "y": 1512
+          }
+        },
+        {
+          "name": "mutator_finish_4",
+          "source": {
+            "x": 1208,
+            "y": 1208,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1198,
+            "y": 1223,
+            "w": 333,
+            "h": 319
+          },
+          "anchor": {
+            "x": 1365,
+            "y": 1541
+          }
+        }
+      ]
+    }
+  ]
+}
