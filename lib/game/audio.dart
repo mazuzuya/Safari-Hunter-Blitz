@@ -17,6 +17,10 @@ class AudioBus {
     final context = _audioContext();
     unawaited(AudioPlayer.global.setAudioContext(context));
     unawaited(_bgm.setAudioContext(context));
+    // Configure the looping BGM player once. Avoid stop()/seek right before
+    // play() — on Android that throws MEDIA_ERROR_UNKNOWN (what:-38).
+    unawaited(_bgm.setReleaseMode(ReleaseMode.loop));
+    unawaited(_bgm.setVolume(0.5));
     for (var i = 0; i < _poolSize; i++) {
       final player = AudioPlayer(playerId: 'sfx_$i');
       unawaited(player.setAudioContext(context));
@@ -68,7 +72,11 @@ class AudioBus {
     final asset = 'audio/$name.mp3';
     _log('play sfx: $asset (vol=$volume pitch=$pitch)');
     try {
-      await player.stop();
+      // stop() on an idle/preparing player can emit Android MEDIA_ERROR_UNKNOWN;
+      // ignore it — play() will (re)start the source regardless.
+      try {
+        await player.stop();
+      } catch (_) {}
       await player.setVolume(volume);
       await player.play(AssetSource(asset));
       if (pitch != 1) {
@@ -94,9 +102,8 @@ class AudioBus {
     final asset = 'audio/bgm$_bgmTrack.mp3';
     _log('start BGM: $asset');
     try {
-      await _bgm.stop();
-      await _bgm.setReleaseMode(ReleaseMode.loop);
-      await _bgm.setVolume(0.5);
+      // Don't call stop() first — on Android that raises MEDIA_ERROR_UNKNOWN
+      // (what:-38) while the player is preparing. play() restarts cleanly.
       await _bgm.play(AssetSource(asset));
       _bgmPlaying = true;
       _log('BGM playing track $_bgmTrack');

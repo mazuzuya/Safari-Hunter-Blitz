@@ -897,7 +897,7 @@ class SafariGame extends FlameGame {
           STAGES[i].name,
           STAGES[i].challengeName,
           save.stars[i],
-          false,
+          i >= save.unlocked,
         ),
     ];
     controller.modalReturn =
